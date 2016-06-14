@@ -1,2 +1,2 @@
 # laravel-debugbar
-Detect The Application Environment &amp; debugbar in development environment
+Detect the application environment &amp; debugbar in development environment
